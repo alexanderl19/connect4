@@ -24,3 +24,4 @@ jobs:
           Solver.o
           c4solver
           main.o
+          generator
